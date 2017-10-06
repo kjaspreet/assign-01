@@ -1,0 +1,25 @@
+Team Members- 
+1. Jaspreet Kaur
+   Student ID - 100285603
+   Email ID - jkaur53@mylangara.bc.ca
+2. Ramanpreet Kaur 
+   Student ID - 100293841
+   Email ID - rkaur92@mylangara.ca
+3. Huixuan Yang
+   Student ID - 100278422
+   Email ID - hyang36@mylangara.ca
+
+
+Instructions - 
+To run this Program please run the following command -
+
+npm start.
+
+User enter the title of the Post and Post details. By clicking on "Upload" button, a "txt" file will be created in the posts directory and a ".html" file is created in the build directory.
+
+User will be redirected and a ink will be displayed to Go Back to the index page and the post will be added in the list of the posts on the index page.
+
+On clicking on the post you will be taken to individual post page which will contain the content.
+
+Third Party Libraries - 
+1. Formidable - for handling the form content.
